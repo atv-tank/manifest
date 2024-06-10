@@ -3,6 +3,6 @@
 
   <project name="atv-tank/device_amazon_tank" path="device/amazon/tank" remote="github" revision="cm-12.1" />
   <project name="atv-tank/vendor_amazon_tank" path="vendor/amazon/tank" remote="github" revision="exp" />
-  <project name="atv-tank/android_kernel_amazon_mt8127" path="kernel/amazon/mt8127" remote="github" revision="cm-12.1" />
+  <project name="atv-tank/android_kernel_amazon_mt8127" path="kernel/amazon/mt8127" remote="github" revision="tank-3.10" />
 
 </manifest>
